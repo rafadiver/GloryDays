@@ -2,13 +2,16 @@
 //  ViewController.swift
 //  GloryDays
 //
-//  Created by Maria Susana Moline Venanzi on 11/15/16.
-//  Copyright © 2016 Maria Susana Moline Venanzi. All rights reserved.
+//  Created by Rafael Aguirre  on 11/15/16.
+//  Copyright © 2016 Maria Susana Moline Venanzi. All rights reserved....
 //
 
 import UIKit
 
 class ViewController: UIViewController {
+    
+    
+
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -23,3 +26,4 @@ class ViewController: UIViewController {
 
 }
 
+/// Rafa hizo este cambio
